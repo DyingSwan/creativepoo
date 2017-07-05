@@ -4,16 +4,10 @@ using namespace std;
 
 int calc(int sum,  vector<int> nums, int target){
 	int find =0;	
-	if(nums.empty())
-	{
-		return find;
-	}
+	if(nums.empty())return find;
 	int first=nums[nums.size()-1];
 	nums.pop_back();
-	if(sum+first ==target){
-	
-		find++;
-	}
+	if(sum+first ==target)find++;
 	return find+ calc(sum+first,nums,target)+calc(sum,nums,target);	
 
 }
