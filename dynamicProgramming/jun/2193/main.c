@@ -1,3 +1,4 @@
+//설명 참고: http://blog.naver.com/occidere/220788046159 
 #include<stdio.h>
 int main(){
     int i,n; scanf("%d",&n);
