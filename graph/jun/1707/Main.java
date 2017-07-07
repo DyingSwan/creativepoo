@@ -3,7 +3,6 @@ import java.io.InputStreamReader;
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
-import java.nio.*;
 
 public class Main {
 	static ArrayList<Integer> map[];
