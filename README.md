@@ -28,5 +28,19 @@ A: DFS와 BFS(https://www.acmicpc.net/problem/1260)</br>
 B: 치즈(https://www.acmicpc.net/problem/2638)</br>
 C: 이분 그래프(https://www.acmicpc.net/problem/1707)</br>
 
+4회 - 완전탐색</br>
+연습: https://www.acmicpc.net/group/practice/985/4</br>
+
+A: 외판원 순회(https://www.acmicpc.net/problem/2098)</br>
+B: N-Queen(https://www.acmicpc.net/problem/9663)</br>
+C: 스도쿠(https://www.acmicpc.net/problem/2580)</br>
+
+5회 – Graph 1회차 </br>
+
+A: 토마토(https://www.acmicpc.net/problem/7576)</br>
+B: 단지 번호 붙이(https://www.acmicpc.net/problem/2667)</br>
+
+
+
 </hr>
 
