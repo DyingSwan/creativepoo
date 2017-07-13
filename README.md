@@ -40,6 +40,9 @@ C: 스도쿠(https://www.acmicpc.net/problem/2580)</br>
 A: 토마토(https://www.acmicpc.net/problem/7576)</br>
 B: 단지 번호 붙이(https://www.acmicpc.net/problem/2667)</br>
 
+6회 - Graph 2최차 </br>
+A: https://www.acmicpc.net/problem/2178</br>
+B: 치즈(https://www.acmicpc.net/problem/2638)</br>
 
 
 </hr>
