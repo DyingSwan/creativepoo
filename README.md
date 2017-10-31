@@ -5,6 +5,14 @@
 DP 와 Graph는 꾸준히 추천하고 풀기.</br>
 추천 문제는 Slack으로 공유.</br>
 
+## 스켈레톤 폴더 생성법
+1. creativepoo 폴더 내부의 make_skel.sh를 실행시킨다
+    * `./make_skel.sh`
+2. 문제 번호를 입력한다.
+    * `1234`
+3. 자동으로 company 폴더 내부에 `문제번호/각자 id`의 형태로 폴더가 생성된다
+    * `company/1234/occidere 등...`
+
 
 
 <hr>
