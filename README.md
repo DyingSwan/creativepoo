@@ -54,13 +54,10 @@ B: 치즈(https://www.acmicpc.net/problem/2638)</br>
 
 ## Company 기출
 1회 - Graph
-    A. DFS와 BFS(https://www.acmicpc.net/problem/1260)
-	B. 로봇청소기(https://www.acmicpc.net/problem/14503)
-</br>
-2회 - Graph </br>
-    A. 연구소(https://www.acmicpc.net/problem/14502) </br>
-    B. 연산자 끼워넣기(https://www.acmicpc.net/problem/14888) </br>
-
+1. DFS와 BFS(https://www.acmicpc.net/problem/1260)
+2. 로봇청소기(https://www.acmicpc.net/problem/14503)
+2회 - Graph
+1. 연구소(https://www.acmicpc.net/problem/14502)
+2. 연산자 끼워넣기(https://www.acmicpc.net/problem/14888)
 
 </hr>
-
